@@ -11,7 +11,7 @@ The most useful libraries will be **pandas** for managing the data and **matplot
 [Here](https://www.markdownguide.org/basic-syntax/) is a guide to formatting text in markdown.
 
 
-## Main Steps
+## Main S'teps
 1. Fork this repository. Feel free to make commits and push along the way.
 
 2. Create a new Jupyter Notebook. Make sure to git add it.
